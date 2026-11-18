@@ -1,0 +1,7 @@
+{
+    "name": "US Map",
+    "version": "0.1.0",
+    "author": "girthy_mods",
+    "description": "Play on the United States (lower 48) built from real elevation, coastlines, land cover, cities and interstates.",
+    "enabled": true
+}

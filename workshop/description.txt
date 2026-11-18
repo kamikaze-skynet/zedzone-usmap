@@ -1,0 +1,26 @@
+[h1]United States Map[/h1]
+Play ZED ZONE on the United States. The lower 48 states are built from real world data and scaled down to fit one big map.
+
+[list]
+[*][b]Real coastlines[/b], the Great Lakes, big lakes and major rivers.
+[*][b]Real hills and mountains[/b] from elevation data: the Rockies, Appalachians, Sierra Nevada and more.
+[*][b]Real land cover:[/b] forests, farmland and desert where they really are.
+[*][b]313 real cities[/b] as towns, bigger cities take more space (New York, Los Angeles, Chicago, Houston...).
+[*][b]Interstates[/b] as highways between them.
+[*][b]Real landmarks:[/b] military bases, nuclear plants, cargo airports, ports and labs at their real locations.
+[*]You start in the middle of Kansas.
+[/list]
+
+[h2]How to play[/h2]
+Make a new sandbox map and put [b]USA[/b] in its name (for example "USA run"). Every other map stays as normal.
+
+[h2]Size[/h2]
+The map is 128 x 80 chunks, twice as wide and tall as a normal map, so the first load takes longer and uses more memory.
+
+[h2]Co-op[/h2]
+Everyone should install it.
+
+[h2]Requires[/h2]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3834614258]ZED ZONE Code Mod Loader[/url] - run its install.cmd once, then start the game through Steam.
+
+Settings: BepInEx\config\girthy_mods.zedzone.usmap.cfg

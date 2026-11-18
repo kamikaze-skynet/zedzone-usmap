@@ -1,0 +1,26 @@
+bin/
+obj/
+dist/
+
+*.user
+.vs/
+.idea/
+# the built DLL is copied in at publish time
+workshop/content/USMap/*.dll
+workshop/content/USMap/usmap.bin
+tools/steamcmd/
+*.zip
+# local build output (copy of src build + data/usmap.bin)
+build/
+# raw downloaded map/geo source data
+*.shp
+*.shx
+*.dbf
+*.geojson
+*.tif
+*.osm.pbf
+# secrets / Steam login
+.env
+.env.*
+*.vdf
+ssfn*
